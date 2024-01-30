@@ -1,2 +1,3 @@
 # comp2900
-Data Structure 
+Course __Data Structure__ \
+Autor 
